@@ -1,8 +1,68 @@
-- 👋 Hola, soy @Jeferson11C
-- 👀 Estoy interesado en el desarrollo de software, la inteligencia artificial y proyectos de código abierto.
-- 🌱 Actualmente estoy aprendiendo el Desarrollo web Front-end.
-- 💞️ Estoy buscando colaborar en proyectos innovadores e iniciativas impulsadas por la comunidad.
-- 📫 Cómo contactarme: jcabreracamizan@gmail.com
-- 😄 Pronombres: Jeff
-- ⚡ Dato curioso: Amante del futbol 
+![](https://komarev.com/ghpvc/?username=Jeferson11C)
 
+## Hi there! I'm Jeferson Cabrera Camizan 👋
+
+I am a passionate software engineering student with a focus on developing innovative solutions to challenging problems. 
+
+- **Currently exploring:**
+  - Mobile Application Development 📱
+  - Web Application Development 🌐
+- **Interests:**  
+  - Big Data  
+  - Cloud Computing ☁️  
+  - Machine Learning and Data Science 🤖
+
+## My Skills Include 🚀
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</span>
+
+<h4> Frameworks </h4>
+<span>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</span>
+
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</span>
+
+<h4> IDEs </h4>
+<span>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</span>
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</span>
+
+---
+
+<p align="center">
+   <i>Feel free to reach out to me!</i>
+   <br>
+   <a href="https://www.linkedin.com/in/jeferson-cabrera/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+   <a href="mailto:jeferson11c@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
+   <a href="https://wa.me/519XXXXXXXX" target="_blank">
+      <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+   </a>
+</p>
