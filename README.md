@@ -16,10 +16,11 @@
 Web Development 🌐 | Mobile App Development 📱 | Cloud Infrastructure ☁️ | Analytics 📊 | Cybersecurity 🔒  
 
 💡 **Interests:**  
-Big Data 📈 | Cloud Computing ☁️ | Machine Learning 🤖 | Cybersecurity 🔐  
+Big Data 📈 | Cloud Computing ☁️ | Machine Learning 🤖 | DevOps ⚙️  
 
 🎯 **Goals:**  
 Building impactful tech solutions, optimizing systems, and contributing to innovative projects!
+
 
 ---
 
