@@ -10,13 +10,16 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me  
 
-- 🚀 **Currently Learning:**  
-  Mobile App Development 📱 | Web App Development 🌐  
+🚀 **Currently Learning:**  
+Web Development 🌐 | Mobile App Development 📱 | Cloud Infrastructure ☁️ | Analytics 📊 | Cybersecurity 🔒  
 
-- 💡 **Interests:**  
-  Big Data | Cloud Computing ☁️ | Machine Learning 🤖
+💡 **Interests:**  
+Big Data 📈 | Cloud Computing ☁️ | Machine Learning 🤖 | Cybersecurity 🔐  
+
+🎯 **Goals:**  
+Building impactful tech solutions, optimizing systems, and contributing to innovative projects!
 
 ---
 
